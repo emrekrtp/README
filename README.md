@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreekrtp&label=Profile%20views&color=0e75b6&style=flat" alt="emreekrtp" /> </p>
 
-- 🌱 I’m currently learning **C# and Flutter**
+- 🌱 I’m currently learning **C++ and Flutter**
 
 - 📫 How to reach me **emrekrtp12@gmail.com**
 
