@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre KARATOP</h1>
+<h1 align="center">Hi 👋, I'm Emre </h1>
 <h3 align="center">I'm learning !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreekrtp&label=Profile%20views&color=0e75b6&style=flat" alt="emreekrtp" /> </p>
